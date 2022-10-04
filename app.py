@@ -40,4 +40,4 @@ if file:
 
 st.header('Platforma haqida malumot :')
 st.caption('Creator: Ozim')
-st.caption('Platformani code korish uchun:')
+st.caption('Platformani code korish uchun: https://github.com/M27urodkhon/SportsEquipment.git')
